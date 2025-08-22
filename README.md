@@ -7,7 +7,7 @@ Développeur passionné par le web moderne et l’intelligence Artificielle.
 <td>
 <h3>🛠️ Compétences</h3>
 <div>
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /></br>
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
 <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
 <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" />
