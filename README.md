@@ -36,7 +36,7 @@ Développeur passionné par le web moderne et l’intelligence Artificielle.
 <li>Empathie</li>
 <li>Organisation</li>
 <li>Adaptabilité</li>
-<li>Pédagogie</li></br></br></br>
+<li>Pédagogie</li></br></br></br></br></br>
 </ul>
 </td>
 </tr></table>
